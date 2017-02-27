@@ -7,7 +7,7 @@ function Carousel(opts){
     //混入继承
     defaultopts={
         index: 0,
-        carousleTime:2000,
+        carousleTime:5000,
     }
     //数据接收并添加到this中
     $.extend(this,$.extend(defaultopts,opts));
