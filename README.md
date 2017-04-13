@@ -14,4 +14,4 @@ opts{
     ],
 }
 ```
-Show your DEMO : http://www.jiangwenqiang.com/Jquery-plugins/
+Show your DEMO : https://say-hi.github.io/Jquery-plugins
